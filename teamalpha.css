@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+      margin: 20px auto;
+      width: 80%;
+      max-width: 100%;
+      overflow-x: auto;
+      background-color: rgb(236, 252, 255);
+}
+td,th{
+    padding:10px;
+    border: solid;
+}
+.head{
+    text-align: center;
+    background-color: rgb(151, 163, 195);
+}
+.row-1{
+    background-color: rgb(178, 210, 219);
+}
+td{
+    text-align: left;
+}
+.merged{
+    text-align: center;
+   
+}
+.rowhover:hover{
+    background-color: rgb(206, 247, 231);
+}
